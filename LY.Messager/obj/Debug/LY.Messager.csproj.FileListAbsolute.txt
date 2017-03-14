@@ -1,0 +1,5 @@
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Messager\bin\Debug\LY.Messager.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Messager\bin\Debug\LY.Messager.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Messager\obj\Debug\LY.Messager.csprojResolveAssemblyReference.cache
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Messager\obj\Debug\LY.Messager.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Messager\obj\Debug\LY.Messager.pdb

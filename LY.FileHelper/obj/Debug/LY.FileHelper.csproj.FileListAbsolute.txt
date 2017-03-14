@@ -1,0 +1,11 @@
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\bin\Debug\LY.FileHelper.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\bin\Debug\LY.FileHelper.pdb
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\bin\Debug\NPOI.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\bin\Debug\NPOI.OOXML.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\bin\Debug\NPOI.xml
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\obj\Debug\LY.FileHelper.csprojResolveAssemblyReference.cache
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\obj\Debug\LY.FileHelper.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.FileHelper\obj\Debug\LY.FileHelper.pdb

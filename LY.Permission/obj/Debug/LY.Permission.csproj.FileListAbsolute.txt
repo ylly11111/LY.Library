@@ -1,0 +1,5 @@
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.Permission\obj\Debug\LY.Permission.csprojResolveAssemblyReference.cache
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.Permission\bin\Debug\LY.WPF.Permission.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.Permission\bin\Debug\LY.WPF.Permission.pdb
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.Permission\obj\Debug\LY.WPF.Permission.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.Permission\obj\Debug\LY.WPF.Permission.pdb

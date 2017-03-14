@@ -1,0 +1,10 @@
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\obj\Debug\LY.MEF.AOP.Test.csprojResolveAssemblyReference.cache
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\obj\Debug\LY.MEF.AOP.Test.Form1.resources
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\obj\Debug\LY.MEF.AOP.Test.csproj.GenerateResource.Cache
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\bin\Debug\LY.MEF.AOP.Test.exe
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\bin\Debug\LY.MEF.AOP.Test.pdb
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\bin\Debug\Castle.Core.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\bin\Debug\LY.MEF.AOP.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\bin\Debug\LY.MEF.AOP.pdb
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\obj\Debug\LY.MEF.AOP.Test.exe
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\obj\Debug\LY.MEF.AOP.Test.pdb

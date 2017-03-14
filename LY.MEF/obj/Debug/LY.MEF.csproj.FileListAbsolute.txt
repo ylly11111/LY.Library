@@ -1,0 +1,5 @@
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF\bin\Debug\LY.MEF.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF\bin\Debug\LY.MEF.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF\obj\Debug\LY.MEF.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF\obj\Debug\LY.MEF.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF\bin\Debug\System.ComponentModel.Composition.dll

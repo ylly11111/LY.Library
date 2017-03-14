@@ -1,0 +1,8 @@
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF.Test\bin\Debug\LY.MEF.Test.exe.config
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF.Test\obj\Debug\LY.MEF.Test.csprojResolveAssemblyReference.cache
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF.Test\bin\Debug\LY.MEF.Test.exe
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF.Test\bin\Debug\LY.MEF.Test.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF.Test\bin\Debug\LY.MEF.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF.Test\bin\Debug\LY.MEF.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF.Test\obj\Debug\LY.MEF.Test.exe
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.MEF.Test\obj\Debug\LY.MEF.Test.pdb

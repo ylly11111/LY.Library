@@ -1,0 +1,7 @@
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP\obj\Debug\LY.MEF.AOP.csprojResolveAssemblyReference.cache
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP\obj\Debug\LY.MEF.AOP.Properties.Resources.resources
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP\obj\Debug\LY.MEF.AOP.csproj.GenerateResource.Cache
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP\bin\Debug\LY.MEF.AOP.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP\bin\Debug\LY.MEF.AOP.pdb
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP\obj\Debug\LY.MEF.AOP.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP\obj\Debug\LY.MEF.AOP.pdb

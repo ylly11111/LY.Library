@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>NPOI</id>
+    <version>2.2.1</version>
+    <title>NPOI</title>
+    <authors>Tony Qu, Antony</authors>
+    <owners>Tony Qu, Antony</owners>
+    <licenseUrl>http://npoi.codeplex.com/license</licenseUrl>
+    <projectUrl>http://www.linkedin.com/company/neuzilla</projectUrl>
+    <iconUrl>http://download-codeplex.sec.s-msft.com/Download?ProjectName=npoi&amp;DownloadId=155905&amp;Build=20959</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Follow us via http://www.linkedin.com/company/neuzilla
+
+Neuzilla studio provides software customization and full-stack consulting service. For details, please contact support@neuzilla.com</description>
+    <summary>This project is the .NET version of POI from Apache Foundation. NPOI can read and write xls (Excel 97-2003), xlsx(Excel 2007+) and docx(Word 2007+)</summary>
+    <releaseNotes>Bug Fixes
+- Fix a lot of serialization issue of ooxml issue
+- Fix phonetic guides tag reading/writing issue
+- Fix XWPFRun SetText exception issue
+- Fix xml security issue
+- Optimize memory for AutoResizeColumn
+- Fix sqref property is missing on ProtectedRange
+- Fix drawing ooxml issue and cell value bug
+- Fix numFmtId property issue on NumFmt node
+- Fix ooxml issues for RadarChart and CellStyle
+- Fix xfrm namespace issue in ooxml
+- Fix ScatterChart issue in ooxml
+- Fix ooxml bugs in Vml entities
+- fix bug when call ISheet.RemoveRow, it removes a wrong row
+- don't close zip stream when zipoutputstream finish writing</releaseNotes>
+    <copyright>Neuzilla</copyright>
+    <tags>npoi xlsx xls Excel Word docx</tags>
+    <dependencies>
+      <dependency id="SharpZipLib" version="0.86.0" />
+    </dependencies>
+  </metadata>
+</package>

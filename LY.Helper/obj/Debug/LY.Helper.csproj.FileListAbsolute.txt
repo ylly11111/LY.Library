@@ -1,0 +1,4 @@
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.Helper\bin\Debug\LY.Helper.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.Helper\bin\Debug\LY.Helper.pdb
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.Helper\obj\Debug\LY.Helper.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.Helper\obj\Debug\LY.Helper.pdb

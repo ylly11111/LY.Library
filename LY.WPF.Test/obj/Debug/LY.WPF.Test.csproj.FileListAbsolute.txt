@@ -1,0 +1,14 @@
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\bin\Debug\LY.WPF.Test.exe
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\bin\Debug\LY.WPF.Test.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\obj\Debug\LY.WPF.Test.csprojResolveAssemblyReference.cache
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\obj\Debug\MainWindow.baml
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\obj\Debug\MainWindow.g.cs
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\obj\Debug\App.g.cs
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\obj\Debug\LY.WPF.Test_MarkupCompile.cache
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\obj\Debug\LY.WPF.Test.g.resources
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\obj\Debug\LY.WPF.Test.Properties.Resources.resources
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\obj\Debug\LY.WPF.Test.csproj.GenerateResource.Cache
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\obj\Debug\LY.WPF.Test.exe
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\obj\Debug\LY.WPF.Test.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\bin\Debug\LY.WPF.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF.Test\bin\Debug\LY.WPF.pdb

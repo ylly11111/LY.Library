@@ -1,0 +1,5 @@
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac\obj\Debug\LY.Autofac.csprojResolveAssemblyReference.cache
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac\bin\Debug\LY.Autofac.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac\bin\Debug\LY.Autofac.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac\obj\Debug\LY.Autofac.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac\obj\Debug\LY.Autofac.pdb

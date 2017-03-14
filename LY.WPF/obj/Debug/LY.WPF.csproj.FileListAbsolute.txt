@@ -1,0 +1,4 @@
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF\bin\Debug\LY.WPF.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF\bin\Debug\LY.WPF.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF\obj\Debug\LY.WPF.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.WPF\obj\Debug\LY.WPF.pdb

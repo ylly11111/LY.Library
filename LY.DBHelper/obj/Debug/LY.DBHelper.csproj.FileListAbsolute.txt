@@ -1,0 +1,5 @@
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.DBHelper\bin\Debug\LY.DBHelper.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.DBHelper\bin\Debug\LY.DBHelper.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.DBHelper\obj\Debug\LY.DBHelper.csprojResolveAssemblyReference.cache
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.DBHelper\obj\Debug\LY.DBHelper.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.DBHelper\obj\Debug\LY.DBHelper.pdb

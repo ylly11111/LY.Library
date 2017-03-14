@@ -1,0 +1,5 @@
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Communication\bin\Debug\LY.Communication.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Communication\bin\Debug\LY.Communication.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Communication\obj\Debug\LY.Communication.csprojResolveAssemblyReference.cache
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Communication\obj\Debug\LY.Communication.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Communication\obj\Debug\LY.Communication.pdb

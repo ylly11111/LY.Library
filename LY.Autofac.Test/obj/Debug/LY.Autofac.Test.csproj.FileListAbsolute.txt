@@ -1,0 +1,9 @@
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac.Test\bin\Debug\LY.Autofac.Test.exe
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac.Test\bin\Debug\LY.Autofac.Test.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac.Test\bin\Debug\LY.Autofac.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac.Test\bin\Debug\Autofac.dll
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac.Test\bin\Debug\LY.Autofac.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac.Test\obj\Debug\LY.Autofac.Test.csprojResolveAssemblyReference.cache
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac.Test\obj\Debug\LY.Autofac.Test.exe
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac.Test\obj\Debug\LY.Autofac.Test.pdb
+c:\users\ly\documents\visual studio 2013\Projects\LY.Library\LY.Autofac.Test\bin\Debug\Autofac.Configuration.dll
