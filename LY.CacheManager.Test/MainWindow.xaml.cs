@@ -33,7 +33,7 @@ namespace LY.CacheManager.Test
 
         private void Show_Click(object sender, RoutedEventArgs e)
         {
-            ///
+            ////
             txtShow.Text = CacheManagerClass.Get<string>("a");
         }
 
