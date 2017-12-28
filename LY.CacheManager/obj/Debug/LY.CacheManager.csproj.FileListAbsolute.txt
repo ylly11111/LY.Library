@@ -1,0 +1,9 @@
+D:\Work\github\LY.Library\LY.CacheManager\bin\Debug\LY.CacheManager.dll
+D:\Work\github\LY.Library\LY.CacheManager\bin\Debug\LY.CacheManager.pdb
+D:\Work\github\LY.Library\LY.CacheManager\bin\Debug\CacheManager.Core.dll
+D:\Work\github\LY.Library\LY.CacheManager\bin\Debug\CacheManager.SystemRuntimeCaching.dll
+D:\Work\github\LY.Library\LY.CacheManager\bin\Debug\CacheManager.Core.xml
+D:\Work\github\LY.Library\LY.CacheManager\bin\Debug\CacheManager.SystemRuntimeCaching.xml
+D:\Work\github\LY.Library\LY.CacheManager\obj\Debug\LY.CacheManager.csprojResolveAssemblyReference.cache
+D:\Work\github\LY.Library\LY.CacheManager\obj\Debug\LY.CacheManager.dll
+D:\Work\github\LY.Library\LY.CacheManager\obj\Debug\LY.CacheManager.pdb

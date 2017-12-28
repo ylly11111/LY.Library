@@ -1,0 +1,11 @@
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\bin\Debug\LY.AutoMapper.Test.exe
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\bin\Debug\LY.AutoMapper.Test.pdb
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\bin\Debug\LY.AutoMapper.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\bin\Debug\AutoMapper.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\bin\Debug\LY.AutoMapper.pdb
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\obj\Debug\LY.AutoMapper.Test.csprojResolveAssemblyReference.cache
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\obj\Debug\LY.AutoMapper.Test.Form1.resources
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\obj\Debug\LY.AutoMapper.Test.Properties.Resources.resources
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\obj\Debug\LY.AutoMapper.Test.csproj.GenerateResource.Cache
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\obj\Debug\LY.AutoMapper.Test.exe
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper.Test\obj\Debug\LY.AutoMapper.Test.pdb

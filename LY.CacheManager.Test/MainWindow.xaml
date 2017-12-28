@@ -1,0 +1,13 @@
+﻿<Window x:Class="LY.CacheManager.Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Add" Click="Add_Click"  HorizontalAlignment="Left" Margin="45,80,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Show"  Click="Show_Click"  HorizontalAlignment="Left" Margin="329,80,0,0" VerticalAlignment="Top" Width="75"/>
+        <TextBox x:Name="txtInput" HorizontalAlignment="Left" Height="23" Margin="83,143,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtShow" HorizontalAlignment="Left" Height="23" Margin="316,143,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Put" Click="Put_Click"  HorizontalAlignment="Left" Margin="145,80,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>

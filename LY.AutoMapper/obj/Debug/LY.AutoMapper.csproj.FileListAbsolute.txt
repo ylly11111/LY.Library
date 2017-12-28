@@ -1,0 +1,5 @@
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper\bin\Debug\LY.AutoMapper.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper\bin\Debug\LY.AutoMapper.pdb
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper\obj\Debug\LY.AutoMapper.csprojResolveAssemblyReference.cache
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper\obj\Debug\LY.AutoMapper.dll
+C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.AutoMapper\obj\Debug\LY.AutoMapper.pdb

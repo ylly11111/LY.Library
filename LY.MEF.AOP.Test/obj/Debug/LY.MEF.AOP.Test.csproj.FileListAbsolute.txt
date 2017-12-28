@@ -8,3 +8,5 @@ C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\bin
 C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\bin\Debug\LY.MEF.AOP.pdb
 C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\obj\Debug\LY.MEF.AOP.Test.exe
 C:\Users\ly\Documents\Visual Studio 2013\Projects\LY.Library\LY.MEF.AOP.Test\obj\Debug\LY.MEF.AOP.Test.pdb
+D:\Work\github\LY.Library\LY.MEF.AOP.Test\obj\Debug\LY.MEF.AOP.Test.exe
+D:\Work\github\LY.Library\LY.MEF.AOP.Test\obj\Debug\LY.MEF.AOP.Test.pdb
